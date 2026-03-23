@@ -6,6 +6,7 @@ This repository documents my journey of learning Artificial Intelligence and Mac
 - Week 1: Python Basics
 - Week 2: Data Structures
 - Week 3: OOP Concepts
+- Week 4: File Handling and JSON Concepts
 
 ## 🛠️ Tech Used
 - Python
